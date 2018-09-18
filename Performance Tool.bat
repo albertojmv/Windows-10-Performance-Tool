@@ -4,7 +4,7 @@ title Performance Tool
 
 rem Estos son los servicios que se van a desabilitar.
 
-echo Welcome to Fausto power tool!  
+echo Welcome to Performance Tool!  
 timeout /t 3 /nobreak>nul
 cls
 echo Computer process optimization is about to start! 
