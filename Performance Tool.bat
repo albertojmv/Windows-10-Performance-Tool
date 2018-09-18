@@ -95,7 +95,7 @@ cls
 
 echo We will now synchronize the time with the server...
 timeout /t 3 /nobreak>nul
-net time \\10.1.2.11 /set /y
+net time \\129.6.15.28 /set /y
 
 timeout /t 3 /nobreak>nul
 
